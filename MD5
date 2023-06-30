@@ -1,0 +1,13 @@
+7fe5cb56477d42f8328ed63df6f40273 *DESCRIPTION
+f0d9deaca36b467ed59f5d5c82146f8b *NAMESPACE
+0e4699a341bfc126b785f971b2624e08 *R/RcppExports.R
+749c63479c1a11982767f5cc2ac17dd1 *R/ReAD.R
+2adbaf98a5603382dbf8171d739bfd25 *R/SimuData.R
+1e80e3997fbfce10808cdf1a63e7ce80 *man/ReAD.Rd
+15178ed599550a8d689bd911ed450210 *man/SimuData.Rd
+0ef695bb116af601d4738b8e307d8e31 *man/em_hmm.Rd
+e62585629948e7dd143efbad43c2a6eb *src/Makevars
+e62585629948e7dd143efbad43c2a6eb *src/Makevars.win
+10e64d697b79f395b59ba390aa2375a6 *src/RcppExports.cpp
+e619973e01c0ba8bbe3c38996aa4266b *src/em_hmm.cpp
+a4076c8ca4e3f38bb16608d6ac4abbd6 *src/init.c
